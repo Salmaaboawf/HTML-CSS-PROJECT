@@ -1,0 +1,396 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(218, 223, 223);
+    height: 100vh;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: rgb(64, 63, 63);
+    padding: 25px;
+}
+ul a:hover{
+    color: rgb(0, 0, 0);
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.ph{
+    width: 20%;
+    padding:5px; 
+}
+.ph img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center;
+}
+span{
+    text-decoration: line-through;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.cards{
+    width: 20%;
+    padding:5px;
+}
+.cards img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.card2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.cards2{
+    width: 20%;
+    padding:5px;
+}
+.cards2 img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+
+}
+.phd{
+    width: 20%;
+    padding:5px;
+}
+.phd img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 20px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+
+.photo2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+
+}
+.phd2{
+    width: 20%;
+    padding:5px;
+}
+.phd2 img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 20px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+
+.shoes{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.shoe{
+    width: 20%;
+    padding:5px;
+}
+.shoe img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+
+.shoes2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.shoe2{
+    width: 20%;
+    padding:5px;
+}
+.shoe2 img{
+    width: 100%;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+
+.hero{
+    padding-top: 100px;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+.per{
+    width: 15%;
+}
+.per img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 30px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+.hero2{
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.per2{
+    width: 15%;
+    padding:5px;
+}
+.per2 img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 30px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+.hero3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.per3{
+    width: 15%;
+    padding:5px;
+}
+.per3 img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 30px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+.hero4{
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.per4{
+    width: 15%;
+    padding:5px;
+}
+.per4 img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 30px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.hero5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.per5{
+    width: 15%;
+    padding:5px;
+}
+.per5 img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 30px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+
+.hero6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.per6{
+    width: 15%;
+    padding:5px;
+}
+.per6 img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 20px;
+    padding: 5px;
+}
+h5{
+    font-size: small;
+    color: rgb(43, 42, 42);
+    width: 100%;
+    text-align: center; 
+}
+span{
+    text-decoration: line-through;
+}
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+
+
+
+

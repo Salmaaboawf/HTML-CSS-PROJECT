@@ -1,0 +1,128 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+#img{
+display: flex;
+
+ padding:2%; 
+text-align: center;
+justify-content: space-around;
+
+}
+#img :hover{
+ opacity: 90%; 
+   
+}
+.img{
+width:100%;
+display: flex;
+
+
+
+}
+.s{text-align: center;
+
+}
+.img1{
+    background-image: url(image2.jpg);
+   background-size:cover ;
+   background-position:50% ;
+   width: 30%;
+ height: 50vh;
+ filter: brightness(80%);
+}
+.img2{
+
+    background-image: url(man.jpg);
+    background-size:cover ;
+    background-position:50% ;
+    width: 30%;
+  height: 50vh;
+  filter: brightness(80%);
+}
+.img3{
+
+    background-image: url(image3.jpg);
+    background-size:cover ;
+    background-position:50% ;
+    width: 30%;
+  height: 50vh;
+   filter: brightness(80%);
+} 
+#img h3{
+color: rgb(0, 0, 0);
+margin-top: 40% ;
+font-size: xx-large;
+
+}
+#img h6{
+    color: rgb(255, 255, 255);
+    
+    
+}
+#img button{ background-color: aliceblue;
+    color: rgb(29, 28, 28);
+    border: none;
+    border-radius: 5%;
+    height: 10%;
+    width:30%;
+ 
+}
+#img button a{
+ text-decoration: none;
+
+}
+#img button:hover{ background-color: black;
+    color: aliceblue;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#h{
+text-align: center;
+background-color: rgb(226, 225, 224);
+padding-top: 7%;
+padding-bottom: 7% ;
+}
+#h p{
+text-align: center;
+color: rgb(41, 40, 40);
+}
+.a{
+width: 5%;
+border-radius: 100% ;
+
+
+}
+
+.m{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+#nada{
+
+width: 50%;
+
+}
+
+#nada{
+
+    width: 50%;
+    
+    }
+    
